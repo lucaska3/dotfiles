@@ -1,0 +1,27 @@
+/* TOP BARS */
+#PersonalToolbar {
+  display: none;
+}
+/* TITLEBAR */
+#titlebar {
+  appearance: unset !important;
+  height: 15px !important;
+  background-color: #27292b;
+}
+
+#navigator-toolbox::after {
+  display: none !important;
+}
+
+#navigator-toolbox {
+  --tabs-border-color: none !important;
+}
+
+/* Remove the Tab Bar on top */
+#TabsToolbar {
+  visibility: collapse !important;
+}
+
+#titlebar #toolbar-menubar {
+  visibility: collapse;
+}

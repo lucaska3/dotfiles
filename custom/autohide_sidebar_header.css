@@ -1,0 +1,12 @@
+
+#sidebar-header:not([sidebarcommand="viewBookmarksSidebar"]):not([sidebarcommand="viewHistorySidebar"]):not([sidebarcommand="viewTabsSidebar"]) {
+  background-color: #2a2a2e !important;
+}
+
+#sidebar-header:not(:hover) {
+  max-height: 5px !important;
+  min-height: 5px !important;
+  padding: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
+}
