@@ -1,4 +1,5 @@
 # Collection of random CSS hacks for Firefox
+### Mainsly from https://github.com/MrOtherGuy/firefox-csshacks
 
 This repository contains various styles to modify appearance of Mozilla Firefox. These stylesheets are mostly self-contained and can be mixed with each other somewhat freely, but there are no promises about compatibility with third-party styles.
 
